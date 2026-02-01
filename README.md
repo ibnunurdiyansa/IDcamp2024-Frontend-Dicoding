@@ -56,10 +56,12 @@ project-root/
 ---
 
 ## 📚 Referensi Pembelajaran
+
 - Dicoding Academy — Belajar Dasar Pemrograman Web
 - Dokumentasi resmi HTML & CSS (MDN Web Docs)
 
 ---
 
 ## 👤 Author
+
 **Ibnu Nurdiyansa**
